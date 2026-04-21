@@ -1,0 +1,7 @@
+<suite name = "Sample Test">
+    <test name = "Test">
+        <classes>
+            <class name = "com.bank.tests.HomePageTest"/>
+        </classes>
+    </test>
+</suite>
